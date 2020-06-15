@@ -1,0 +1,38 @@
+{
+  "name": "starttwitterbox",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "babel-loader": "^8.1.0",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "core-js": "^3.6.5",
+    "tailwindcss": "^1.4.6",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.2",
+    "vue-tailwind": "^0.4.6",
+    "vue-template": "^1.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@symfony/webpack-encore": "^0.30.2",
+    "@vue/cli-plugin-babel": "^4.2.3",
+    "@vue/cli-plugin-eslint": "^4.2.3",
+    "@vue/cli-service": "^4.2.3",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^6.2.2",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "html-webpack-plugin": "^3.2.0",
+    "prettier": "^1.19.1",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.0.0"
+  }
+}
